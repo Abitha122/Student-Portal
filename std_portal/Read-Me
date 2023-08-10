@@ -1,0 +1,9 @@
+Admin User.
+user name = admin
+password = Test@12345
+
+external software used xampp.
+save file in xampp/htdocs folder.
+
+import database name as stdportal in sql.
+
